@@ -1,0 +1,26 @@
+body {
+    font-family: "Delicious Handrawn", Arial, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 5px 5px 5px rgb(105, 183, 209);
+
+}
+
+h2 {
+    letter-spacing: 3px;
+    font-size: xx-large;
+    text-shadow: 5px 5px 5px lightgreen;
+}
+
+p {
+    font-size:x-large;
+    letter-spacing: 1.5;
+    line-height: 2;
+    font-weight: 500;
+    margin: 50px;
+}
